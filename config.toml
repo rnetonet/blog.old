@@ -4,13 +4,13 @@ build_search_index = true
 generate_feed = true
 compile_sass = true
 minify_html = true
+output_dir = "docs"
 
 [markdown]
 highlight_code = true
 highlight_theme = "inspired-github"
 
 [extra]
-output_dir = "docs"
 toc = true
 use_cdn = false
 #favicon = "/icon/favicon.png"
