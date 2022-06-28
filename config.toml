@@ -10,6 +10,7 @@ highlight_code = true
 highlight_theme = "inspired-github"
 
 [extra]
+output_dir = "docs"
 toc = true
 use_cdn = false
 #favicon = "/icon/favicon.png"
