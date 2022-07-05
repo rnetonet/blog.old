@@ -53,9 +53,16 @@ pre code[class*="language-"]::before {
 }
 
 pre code[class="language-javaScript"]::before,
+pre code[class="language-javascript"]::before,
 pre code[class="language-js"]::before {
   content: "js";
   background: #f7df1e;
+  color: black;
+}
+
+pre code[class="language-java"]::before {
+  content: "java";
+  background: #ad9a08;
   color: black;
 }
 
