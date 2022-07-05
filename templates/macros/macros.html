@@ -10,7 +10,7 @@
                 <a href={{ page.permalink }}>{{page.title}}</a>
             </h1>
 
-            <time>{{ page.date | date(format="%Y-%m-%d") }}</time>
+            <time>{{ page.date | date(format="%d/%m/%Y") }}</time>
 
             <br />
             <div class="description">
@@ -65,7 +65,7 @@
 
             {% if page.date %}
                 <div class="meta">
-                    {{ page.date | date(format="%Y-%m-%d") }}
+                    {{ page.date | date(format="%d/%m/%Y") }}
 
                     {% if page.draft %}
                         <span class="draft-label">DRAFT</span> 

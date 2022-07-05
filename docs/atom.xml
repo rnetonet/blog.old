@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>rneto.net</title>
+	<title>Rui Neto</title>
 	<link href="https://rneto.net/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rneto.net"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
@@ -27,6 +27,11 @@
 &lt;h2 id=&quot;code-tags&quot;&gt;Code tags&lt;&#x2F;h2&gt;
 &lt;p&gt;Lorem ipsum &lt;code&gt;dolor&lt;&#x2F;code&gt; sit amet, &lt;code&gt;consectetur adipiscing&lt;&#x2F;code&gt; elit. 
 &lt;code&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;subsections&quot;&gt;Subsections&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Subsection&lt;&#x2F;strong&gt;, &lt;em&gt;subsection&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;subsubsection&quot;&gt;Subsubsection&lt;&#x2F;h4&gt;
+&lt;pre data-lang=&quot;python&quot; style=&quot;background-color:#ffffff;color:#323232;&quot; class=&quot;language-python &quot;&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span style=&quot;color:#62a35c;&quot;&gt;print&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#183691;&quot;&gt;&amp;#39;Hello World&amp;#39;&lt;&#x2F;span&gt;&lt;span&gt;)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 </content>
 	</entry>
 </feed>
